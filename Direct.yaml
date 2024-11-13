@@ -2,6 +2,7 @@
 # AUTHOR: Fansky
 
 payload:
+  - DOMAIN,tonser.top
   - DOMAIN,0123456789nonexistent.com
   - DOMAIN,sad.sd
   - DOMAIN,tracker.cinefiles.info
