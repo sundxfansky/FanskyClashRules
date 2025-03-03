@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,v1.mk
   - DOMAIN-SUFFIX,tmdb.org
+  - DOMAIN-SUFFIX,bad.news
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-KEYWORD,perplexity
   - DOMAIN-KEYWORD,mypikpak
