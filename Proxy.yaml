@@ -9,6 +9,8 @@
 # TOTAL: 295
 payload:
   - DOMAIN,0123456789nonexistent.com
+  - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,missav.com
   - DOMAIN-SUFFIX,fivetiu.com
   - DOMAIN-SUFFIX,sacdnssedge.com
@@ -16,6 +18,8 @@ payload:
   - DOMAIN-SUFFIX,v1.mk
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,bad.news
+  - DOMAIN-SUFFIX,nodeseek.com
+  - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-KEYWORD,perplexity
