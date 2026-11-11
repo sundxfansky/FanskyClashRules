@@ -7,8 +7,6 @@ external-controller: 127.0.0.1:9090
 Proxy: null
 Proxy Group: null
 Rule: null
-proxies:
-
 proxy-groups:
 - name: 🚀 节点选择
   type: select
