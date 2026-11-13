@@ -96,7 +96,7 @@ rule-providers:
     type: http
     behavior: classical
     format: text
-    url: "https://superfastgh.sundxai.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list"
+    url: "https://superfastgh.sdxx.de/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list"
     path: ./ruleset/LocalAreaNetwork.list
     interval: 86400
 
@@ -104,7 +104,7 @@ rule-providers:
     type: http
     behavior: classical
     format: text
-    url: "https://superfastgh.sundxai.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list"
+    url: "https://superfastgh.sdxx.de/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list"
     path: ./ruleset/UnBan.list
     interval: 86400
 
@@ -112,7 +112,7 @@ rule-providers:
     type: http
     behavior: classical
     format: text
-    url: "https://superfastgh.sundxai.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list"
+    url: "https://superfastgh.sdxx.de/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list"
     path: ./ruleset/BanAD.list
     interval: 86400
 
@@ -120,7 +120,7 @@ rule-providers:
     type: http
     behavior: classical
     format: text
-    url: "https://superfastgh.sundxai.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list"
+    url: "https://superfastgh.sdxx.de/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list"
     path: ./ruleset/BanProgramAD.list
     interval: 86400
 
@@ -128,7 +128,7 @@ rule-providers:
     type: http
     behavior: classical
     format: text
-    url: "https://superfastgh.sundxai.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleFCM.list"
+    url: "https://superfastgh.sdxx.de/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleFCM.list"
     path: ./ruleset/GoogleFCM.list
     interval: 86400
 
@@ -136,7 +136,7 @@ rule-providers:
     type: http
     behavior: classical
     format: text
-    url: "https://superfastgh.sundxai.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list"
+    url: "https://superfastgh.sdxx.de/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list"
     path: ./ruleset/GoogleCN.list
     interval: 86400
 
@@ -144,7 +144,7 @@ rule-providers:
     type: http
     behavior: classical
     format: text
-    url: "https://superfastgh.sundxai.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list"
+    url: "https://superfastgh.sdxx.de/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list"
     path: ./ruleset/SteamCN.list
     interval: 86400
 
@@ -152,7 +152,7 @@ rule-providers:
     type: http
     behavior: classical
     format: text
-    url: "https://superfastgh.sundxai.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Microsoft.list"
+    url: "https://superfastgh.sdxx.de/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Microsoft.list"
     path: ./ruleset/Microsoft.list
     interval: 86400
 
@@ -160,7 +160,7 @@ rule-providers:
     type: http
     behavior: classical
     format: text
-    url: "https://superfastgh.sundxai.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list"
+    url: "https://superfastgh.sdxx.de/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list"
     path: ./ruleset/Apple.list
     interval: 86400
 
@@ -168,7 +168,7 @@ rule-providers:
     type: http
     behavior: classical
     format: text
-    url: "https://superfastgh.sundxai.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list"
+    url: "https://superfastgh.sdxx.de/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list"
     path: ./ruleset/Telegram.list
     interval: 86400
 
@@ -176,7 +176,7 @@ rule-providers:
     type: http
     behavior: classical
     format: text
-    url: "https://superfastgh.sundxai.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list"
+    url: "https://superfastgh.sdxx.de/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list"
     path: ./ruleset/ProxyMedia.list
     interval: 86400
 
@@ -184,7 +184,7 @@ rule-providers:
     type: http
     behavior: classical
     format: text
-    url: "https://superfastgh.sundxai.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyLite.list"
+    url: "https://superfastgh.sdxx.de/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyLite.list"
     path: ./ruleset/ProxyLite.list
     interval: 86400
 
@@ -192,7 +192,7 @@ rule-providers:
     type: http
     behavior: classical
     format: text
-    url: "https://superfastgh.sundxai.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list"
+    url: "https://superfastgh.sdxx.de/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list"
     path: ./ruleset/ChinaDomain.list
     interval: 86400
 
@@ -200,7 +200,7 @@ rule-providers:
     type: http
     behavior: classical
     format: text
-    url: "https://superfastgh.sundxai.workers.dev/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list"
+    url: "https://superfastgh.sdxx.de/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list"
     path: ./ruleset/ChinaCompanyIp.list
     interval: 86400
 
@@ -208,7 +208,7 @@ rule-providers:
     type: http
     behavior: classical
     format: text
-    url: "https://superfastgh.sundxai.workers.dev/https://raw.githubusercontent.com/sundxfansky/FanskyClashRules/refs/heads/main/direct.list"
+    url: "https://superfastgh.sdxx.de/https://raw.githubusercontent.com/sundxfansky/FanskyClashRules/refs/heads/main/direct.list"
     path: ./ruleset/FanskyDirect.list
     interval: 86400
 
@@ -216,7 +216,7 @@ rule-providers:
     type: http
     behavior: classical
     format: text
-    url: "https://superfastgh.sundxai.workers.dev/https://raw.githubusercontent.com/sundxfansky/FanskyClashRules/refs/heads/main/proxy.list"
+    url: "https://superfastgh.sdxx.de/https://raw.githubusercontent.com/sundxfansky/FanskyClashRules/refs/heads/main/proxy.list"
     path: ./ruleset/FanskyProxy.list
     interval: 86400
 
